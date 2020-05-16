@@ -3,5 +3,5 @@ A video calling app entirely made in kivy with max two possible connections. Bac
 ![Login page](img/Screenshot%20from%202020-05-16%2010-54-47.png)
 
 ## License & copyright
-© Vaibhav Singh
+© Vaibhav Singh     
 Licensed under the [MIT License](LICENSE).
